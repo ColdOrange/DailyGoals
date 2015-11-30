@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">天天打卡</string>
+
+    <string name="new_activity_main">新建活动</string>
+    <string name="delete_activity_main">删除活动</string>
+
+    <string name="action_settings">By Orange</string>
+
+    <string name="title_activity_new">新建活动</string>
+    <string name="text_before_input">今天你</string>
+    <string name="text_after_input">了吗</string>
+    <string name="guide_new_activity">请输入新建的活动名称</string>
+    <string name="commit_new_activity">确定</string>
+
+    <string name="title_activity_delete">删除活动</string>
+    <string name="guide_delete_activity">请输入删除的活动名称</string>
+    <string name="commit_delete_activity">确定</string>
+
+    <string name="title_activity_calendar">天天打卡</string>
+    <string name="calendar_guide">天打卡</string>
+    <string name="button_calendar">是的</string>
+
+
+</resources>

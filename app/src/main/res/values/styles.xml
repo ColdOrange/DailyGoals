@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="headerTextAppearance" parent="@android:style/TextAppearance.Widget">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff808080</item>
+    </style>
+
+    <style name="dateTextAppearance" parent="@android:style/TextAppearance.Widget">
+        <item name="android:textSize">15.0sp</item>
+
+    </style>
+
+    <style name="weekDayTextAppearance" parent="@android:style/TextAppearance.Widget">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ff808080</item>
+    </style>
+
+</resources>
